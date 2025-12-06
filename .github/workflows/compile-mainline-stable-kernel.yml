@@ -89,7 +89,7 @@ on:
           - -summer-growing
           - -autumn-harvesting
           - -winter-storing
-          - -yourname
+          - -jfy9606
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
